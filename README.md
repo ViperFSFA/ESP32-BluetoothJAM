@@ -7,7 +7,7 @@ This code is ONLY meant for ethical use in a controlled environment. !UNETHICAL 
 Wire the NRF24L01 to the ESP32 as provided in the code.
 
 # How to use?
-- open the .INO file / copy-paste the code into arduino IDE
+- open the .INO file
 - Wire the NRF24L01 to the ESP32 as the code says (or modify the pins (read LICENSE))
 - Select ESP32 DEV Module as the board
 - Set baud rate to 115200
